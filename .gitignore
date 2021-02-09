@@ -1,3 +1,6 @@
 node_modules
 package-lock.json
 package.json
+.DS_Store
+bootstrap-5.0.0-beta1-dist.zip
+bootstrap-5.0.0-beta1-dist/
